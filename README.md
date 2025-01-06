@@ -43,7 +43,7 @@ Creates jobs and revenue streams through recycling and composting industries.
 - Experience with project development and team collaboration.  
 
 
-## 🌐 Find Me Online
+## 🌐 Find Me Online.
 - [GitHub](https://github.com/your-github-username)
 - [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
 
